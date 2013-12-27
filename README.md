@@ -1,7 +1,7 @@
-Dependencys
+Dependencys:
 
 sudo pip install bitcoin-python
 
-To run
+To run:
 
 python autosend.py
